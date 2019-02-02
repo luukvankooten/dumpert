@@ -2,7 +2,7 @@
 
 ## Install
 
-`$ cd $ZSH_CUSTOM/plugins && git clone https://github.com/luukvankooten/dumpert.git`
+`$ git clone https://github.com/luukvankooten/dumpert.git $ZSH_CUSTOM/plugins`
 
 ## Show usage
 
